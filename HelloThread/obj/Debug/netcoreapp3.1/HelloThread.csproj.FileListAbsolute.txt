@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\bin\Debug\netcoreapp3.1\HelloThread.exe
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\bin\Debug\netcoreapp3.1\HelloThread.deps.json
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\bin\Debug\netcoreapp3.1\HelloThread.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\bin\Debug\netcoreapp3.1\HelloThread.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\bin\Debug\netcoreapp3.1\HelloThread.dll
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\bin\Debug\netcoreapp3.1\HelloThread.pdb
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\obj\Debug\netcoreapp3.1\HelloThread.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\obj\Debug\netcoreapp3.1\HelloThread.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\obj\Debug\netcoreapp3.1\HelloThread.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\obj\Debug\netcoreapp3.1\HelloThread.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\obj\Debug\netcoreapp3.1\HelloThread.dll
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\obj\Debug\netcoreapp3.1\HelloThread.pdb
+C:\Users\thelittlecitizen16\source\repos\HelloThread\HelloThread\obj\Debug\netcoreapp3.1\HelloThread.genruntimeconfig.cache
