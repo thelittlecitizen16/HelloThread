@@ -40,7 +40,7 @@ namespace HelloThread
                 {
                     Console.WriteLine(word);
                     Counter++;
-                    ++CounterMamas;
+                    Interlocked.Increment(ref CounterMamas);
                 }
             }
         }
@@ -52,7 +52,7 @@ namespace HelloThread
                 {
                     Console.WriteLine(word);
                     Counter++;
-                    ++CounterEmpire;
+                    Interlocked.Increment(ref CounterEmpire);
                 }
             }
         }
